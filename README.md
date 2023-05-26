@@ -18,11 +18,11 @@ There are many different types of short-term sentiment indicators, but some of t
 However, it is important to remember that sentiment indicators are not always accurate. They can be influenced by several factors, including news events, economic data, and investor psychology. As a result, it is important to use sentiment indicators in conjunction with other factors when making investment decisions.
 Here are some of the most popular short-term sentiment indicators:
 
-•	**Investor surveys:** Investor surveys are a popular way to measure sentiment because they directly ask investors about their views on the market. There are many different investor surveys, but some of the most popular include **the American Association of Individual Investors Sentiment Survey and the Investors Intelligence Confidence Index.
+•	**Investor surveys:** Investor surveys are a popular way to measure sentiment because they directly ask investors about their views on the market. There are many different investor surveys, but some of the most popular include **the American Association of Individual Investors Sentiment Survey and the Investors Intelligence Confidence Index.**
 
-•	**Media sentiment:** Media sentiment is another popular way to measure sentiment because it gauges how the media is covering the market. There are many different ways to measure media sentiment, but some of the most popular include **the Thomson Reuters/University of Michigan Investor Sentiment Index and the SentiStrength Sentiment Analysis Tool.
+•	**Media sentiment:** Media sentiment is another popular way to measure sentiment because it gauges how the media is covering the market. There are many different ways to measure media sentiment, but some of the most popular include **the Thomson Reuters/University of Michigan Investor Sentiment Index and the SentiStrength Sentiment Analysis Tool.**
 
-•	**Social media sentiment:** Social media sentiment is a newer way to measure sentiment because it gauges how people are talking about the market on social media platforms. There are many different ways to measure social media sentiment,**but some of the most popular include the Brandwatch Consumer Research Suite and the SentiOne Social Media Analytics Platform.
+•	**Social media sentiment:** Social media sentiment is a newer way to measure sentiment because it gauges how people are talking about the market on social media platforms. There are many different ways to measure social media sentiment,**but some of the most popular include the Brandwatch Consumer Research Suite and the SentiOne Social Media Analytics Platform.**
 
 •	**Trading volume:** Trading volume is a measure of how much trading is taking place in a particular security or market. High trading volume can be a sign of strong investor interest, while low trading volume can be a sign of weak investor interest.
 
